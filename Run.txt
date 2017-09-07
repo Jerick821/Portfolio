@@ -1,0 +1,7 @@
+xampp app,
+
+http://localhost/phpmyadmin/
+
+node app
+
+http://localhost:3000
